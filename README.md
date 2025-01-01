@@ -1,0 +1,6 @@
+# USDT靓号生成系统源码，波场靓号生成系统源码，TRC20靓号生成系统源码
+
+演示站：example.com/; 该系统无需注册功能，需要查看后台联系客服<br>系统介绍：波场靓号是指由你自己选择的TRC20地址，使其看起来不那么普通。<br>后台介绍：生成的地址和密钥都存储在数据库后台可以查看，你可以管理查看用户生成的钱包信息包括一键转账！<br>波场靓号是什么?波场靓号是指由你自己选择的TRC20地址，使其看起来不那么普通。比如：TMBeViiBxxSGmPiMgbvWBwF4ngSbmr8888<br>TL1234aiqsJacvpji9QWMBazeEbTCKHpTNT<br>Hoa8888hHCSNt2eWPY9M2qAgeqLxvhd5N<br>工作原里输入你选择的前缀/后缀，然后点击 “生成” 按钮开始。你的浏览器将生成大量随机波场靓号地址，并筛选出与你输入相匹配的。找到喜欢的TRX靓号地址后，你可以复制私钥，或点击 “保存” 按钮创建并下载Keystore文件。你可以根据计算机配置的高低自由决定增加线程以达到更快的生成速度，或在计算机运行困难时适当减少线程。<br>安全性如上所述，所有内容仅在你电脑的浏览器中计算并生成。任何东西都不会离开你的机器，甚至你的浏览器。没有数据库，没有服务端代码。当你关闭浏览器时，一切都消失了。Rare TRX波场靓号不能也永远不会存储你生成的内容，支持断网离线生成波场USDT靓号。Rare TRX波场靓号使用加密安全的伪随机数生成器（CSPRNG）生成波场地址。Keystore文件使用AES-128-CTR算法通过BKDF2-SHA256派生函数进行65536次哈希运算得来。<br>性能表现因技术规范和内核原因，Rare TRX波场靓号生成器在不同浏览器的性能表现可能会有较大差异，目前Chrome提供了的效果。在你的手机或平板电脑上也可以使用Rare TRX波场靓号生成器， 但效果没有电脑好。<br>兼容性波场靓号生成器生成的地址均符合TRC-20标准，这意味着你可以将其用于ICO、空投或从交易所提取等用途。Keystore文件与TronLink完全兼容。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/oDuu6" style="color: red;">https://mega-file.org/oDuu6</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
